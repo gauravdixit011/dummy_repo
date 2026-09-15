@@ -38,3 +38,9 @@ print(c)
 # example 
 # - print("Hello")
 # + print("Hello GitHub")
+
+# Undo Changes
+# git restore example1.py
+
+# Git Tags
+# git tag v1.0.0 
