@@ -44,3 +44,6 @@ print(c)
 
 # Git Tags
 # git tag v1.0.0 
+
+# Push tag
+# git push orgin v1.0.0
