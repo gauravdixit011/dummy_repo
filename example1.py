@@ -3,6 +3,11 @@ b=6
 c = a+b
 print(c)
 
+# First time git configuration after installing git
+# git config --global user.name "John Doe"
+# git config --global user.email "johndoe@gmail.com" 
+
+
 # Working Directory
 # git init
 # git add example1.py , git add . => add all files in the working directory
@@ -47,3 +52,5 @@ print(c)
 
 # Push tag
 # git push orgin v1.0.0
+
+
